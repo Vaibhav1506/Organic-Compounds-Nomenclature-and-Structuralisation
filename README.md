@@ -1,4 +1,4 @@
-# Organic-Compounds-Nomenclature-and-Structuralisation
+# Organic-Compounds-Nomenclature-and-Structuralisation {UNDER DEVELOPMENT}
 Chemistry is the branch of science that deals with the properties, composition, and structure of elements and compounds. A branch of chemistry known as organic chemistry deals with the study of millions of carbon containing compounds. Using our knowledge of computer coding and organic chemistry we have endeavoured to make a project useful in the real life. This project is about an integral part of Organic Chemistry that is IUPAC Nomenclature and Structuralisation of organic compounds. The purpose of the IUPAC system of nomenclature is to establish an international standard of naming compounds to facilitate communication. The goal of the system is to give each structure a unique and unambiguous nme, and to correlate each name with a unique and unambiguous structure.
 The main initiative was to research about the diverse kinds of organic compounds and to create a program for getting their formulae and structures. It helps us to determine the:-
 
